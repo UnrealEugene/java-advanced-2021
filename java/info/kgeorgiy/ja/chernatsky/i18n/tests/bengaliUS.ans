@@ -1,0 +1,41 @@
+Analysing file "bengaliUS.in"
+Sentence statistics
+	Number of sentences: 32
+	Number of different sentences: 32
+	Minimum sentence: "[৪] ১৯৯৯ সালের ১৭ নভেম্বর ইউনেস্কো বাংলা ভাষা আন্দোলন, মানুষের ভাষা এবং কৃষ্টির অধিকারের প্রতি সম্মান জানিয়ে ২১ ফেব্রুয়ারিকে আন্তর্জাতিক মাতৃভাষা দিবস হিসেবে ঘোষণা করে যা বৈশ্বিক পর্যায়ে সাংবার্ষিকভাবে গভীর শ্রদ্ধা ও যথাযোগ্য মর্যাদার সাথে উদযাপন করা হয়।"
+	Maximum sentence: "২৬ ফেব্রুয়ারি আনুষ্ঠানিকভাবে শহীদ মিনারের উদ্বোধন করেন দৈনিক আজাদ পত্রিকার সম্পাদক জনাব আবুল কালাম শামসুদ্দীন।"
+	Minimum sentence length: 2 ("এ.")
+	Maximum sentence length: 258 ("[৪] ১৯৯৯ সালের ১৭ নভেম্বর ইউনেস্কো বাংলা ভাষা আন্দোলন, মানুষের ভাষা এবং কৃষ্টির অধিকারের প্রতি সম্মান জানিয়ে ২১ ফেব্রুয়ারিকে আন্তর্জাতিক মাতৃভাষা দিবস হিসেবে ঘোষণা করে যা বৈশ্বিক পর্যায়ে সাংবার্ষিকভাবে গভীর শ্রদ্ধা ও যথাযোগ্য মর্যাদার সাথে উদযাপন করা হয়।")
+	Mean sentence length: 108.906
+Word statistics
+	Number of words: 478
+	Number of distinct words: 325
+	Minimum word: "অংশ"
+	Max word: "৭ই"
+	Minimum word length: 1 ("ও")
+	Maximum word length: 20 ("সভা-শোভাযাত্রাসহকারে")
+	Mean word length: 5.925
+Number statistics
+	Number of numbers: 41
+	Number of distinct numbers: 28
+	Minimum number: ১
+	Maximum number: ১,০৭৮,৯৮০
+	Minimum number length: 1 (৮)
+	Maximum number length: 9 (১০,৭৮৯.৮)
+	Mean number: ২৭,৭৮৫.০৮৮
+Money amount statistics
+	Number of amounts: 1
+	Number of distinct amounts: 1
+	Minimum amount: ১০,৭৮৯.৮০৳
+	Maximum amount: ১০,৭৮৯.৮০৳
+	Minimum amount length: 10 (১০,৭৮৯.৮০৳)
+	Maximum amount length: 10 (১০,৭৮৯.৮০৳)
+	Mean amount: ১০,৭৮৯.৮০৳
+Date statistics
+	Number of dates: 1
+	Number of distinct dates: 1
+	Minimum date: ৭ জুন, ২০২১
+	Maximum date: ৭ জুন, ২০২১
+	Minimum date length: 11 (৭ জুন, ২০২১)
+	Maximum date length: 11 (৭ জুন, ২০২১)
+	Mean date: ৭ জুন, ২০২১

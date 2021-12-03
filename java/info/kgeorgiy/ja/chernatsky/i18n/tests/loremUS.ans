@@ -1,0 +1,23 @@
+Analysing file "loremUS.in"
+Sentence statistics
+	Number of sentences: 560
+	Number of different sentences: 539
+	Minimum sentence: "Aenean accumsan pretium varius."
+	Maximum sentence: "Vivamus vitae aliquet dui."
+	Minimum sentence length: 15 ("Nulla facilisi.")
+	Maximum sentence length: 156 ("Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas lobortis lorem est, eget finibus ligula efficitur placerat.")
+	Mean sentence length: 52.334
+Word statistics
+	Number of words: 4,418
+	Number of distinct words: 199
+	Minimum word: "a"
+	Max word: "vulputate"
+	Minimum word length: 1 ("a")
+	Maximum word length: 12 ("pellentesque")
+	Mean word length: 5.545
+Number statistics
+	Number of numbers: 0
+Money amount statistics
+	Number of amounts: 0
+Date statistics
+	Number of dates: 0

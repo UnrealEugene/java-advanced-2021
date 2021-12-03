@@ -1,0 +1,41 @@
+Analysing file "japaneseUS.in"
+Sentence statistics
+	Number of sentences: 30
+	Number of different sentences: 21
+	Minimum sentence: "Web-Boss スタジオは、いつでも問題を解決する準備ができています。"
+	Maximum sentence: "面白い提案があれば、ぜひご連絡ください。"
+	Minimum sentence length: 4 ("同志よ！")
+	Maximum sentence length: 77 ("一方、私たちの活動の絶え間ない情報と宣伝支援により、設定されたタスクに関連して参加者が取るポジションの形成に幅広い（専門家）が参加することが保証されます。")
+	Mean sentence length: 46.7
+Word statistics
+	Number of words: 557
+	Number of distinct words: 151
+	Minimum word: "Web-Boss"
+	Max word: "枠組"
+	Minimum word length: 1 ("に")
+	Maximum word length: 9 ("することができます")
+	Mean word length: 2.246
+Number statistics
+	Number of numbers: 11
+	Number of distinct numbers: 10
+	Minimum number: 3
+	Maximum number: 123,456.789
+	Minimum number length: 2 (6)
+	Maximum number length: 11 (123,456.789)
+	Mean number: 13,909.69
+Money amount statistics
+	Number of amounts: 3
+	Number of distinct amounts: 3
+	Minimum amount: ￥1,370
+	Maximum amount: ￥10,790
+	Minimum amount length: 6 (￥2,555)
+	Maximum amount length: 7 (￥10,790)
+	Mean amount: ￥4,905
+Date statistics
+	Number of dates: 2
+	Number of distinct dates: 2
+	Minimum date: 2001/07/03
+	Maximum date: 2021/06/07
+	Minimum date length: 11 (2021/06/07)
+	Maximum date length: 11 (2021/06/07)
+	Mean date: 2011/06/20
